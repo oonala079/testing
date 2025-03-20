@@ -2345,13 +2345,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-primary {
-    color: #a35176;
+    color: #fff;
     background-color: #007bff;
     border-color: #007bff
 }
 
 .btn-primary.focus,.btn-primary:focus,.btn-primary:hover {
-    color: #a35176;
+    color: #fff;
     background-color: #0069d9;
     border-color: #0062cc
 }
@@ -2361,13 +2361,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-primary.disabled,.btn-primary:disabled {
-    color: #a35176;
+    color: #fff;
     background-color: #007bff;
     border-color: #007bff
 }
 
 .btn-primary:not(:disabled):not(.disabled).active,.btn-primary:not(:disabled):not(.disabled):active,.show>.btn-primary.dropdown-toggle {
-    color: #a35176;
+    color: #fff;
     background-color: #0062cc;
     border-color: #005cbf
 }
@@ -2377,13 +2377,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-secondary {
-    color: #a35176;
+    color: #fff;
     background-color: #6c757d;
     border-color: #6c757d
 }
 
 .btn-secondary.focus,.btn-secondary:focus,.btn-secondary:hover {
-    color: #a35176;
+    color: #fff;
     background-color: #5a6268;
     border-color: #545b62
 }
@@ -2393,13 +2393,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-secondary.disabled,.btn-secondary:disabled {
-    color: #a35176;
+    color: #fff;
     background-color: #6c757d;
     border-color: #6c757d
 }
 
 .btn-secondary:not(:disabled):not(.disabled).active,.btn-secondary:not(:disabled):not(.disabled):active,.show>.btn-secondary.dropdown-toggle {
-    color: #a35176;
+    color: #fff;
     background-color: #545b62;
     border-color: #4e555b
 }
@@ -2409,13 +2409,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-success {
-    color: #a35176;
+    color: #fff;
     background-color: #28a745;
     border-color: #28a745
 }
 
 .btn-success.focus,.btn-success:focus,.btn-success:hover {
-    color: #a35176;
+    color: #fff;
     background-color: #218838;
     border-color: #1e7e34
 }
@@ -2425,13 +2425,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-success.disabled,.btn-success:disabled {
-    color: #a35176;
+    color: #fff;
     background-color: #28a745;
     border-color: #28a745
 }
 
 .btn-success:not(:disabled):not(.disabled).active,.btn-success:not(:disabled):not(.disabled):active,.show>.btn-success.dropdown-toggle {
-    color: #a35176;
+    color: #fff;
     background-color: #1e7e34;
     border-color: #1c7430
 }
@@ -2441,13 +2441,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-info {
-    color: #a35176;
+    color: #fff;
     background-color: #17a2b8;
     border-color: #17a2b8
 }
 
 .btn-info.focus,.btn-info:focus,.btn-info:hover {
-    color: #a35176;
+    color: #fff;
     background-color: #138496;
     border-color: #117a8b
 }
@@ -2457,13 +2457,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-info.disabled,.btn-info:disabled {
-    color: #a35176;
+    color: #fff;
     background-color: #17a2b8;
     border-color: #17a2b8
 }
 
 .btn-info:not(:disabled):not(.disabled).active,.btn-info:not(:disabled):not(.disabled):active,.show>.btn-info.dropdown-toggle {
-    color: #a35176;
+    color: #fff;
     background-color: #117a8b;
     border-color: #10707f
 }
@@ -20604,7 +20604,7 @@ a,a:hover {
 }
 
 .ng-link-custom {
-    color: #a35176;
+    color: #fff;
     cursor: pointer;
     text-decoration: underline
 }
@@ -20623,7 +20623,7 @@ hr {
 }
 
 .background-primary {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .background-primary-light {
@@ -20770,7 +20770,7 @@ app-sfi-content {
 }
 
 .-text.-brand {
-    color: #a35176
+    color: #fff
 }
 
 .-text.-size.-small {
@@ -21295,11 +21295,11 @@ table td[class*=col-],table th[class*=col-] {
 .label.-alt {
     font-size: 15px;
     font-weight: 700;
-    color: #a35176
+    color: #fff
 }
 
 .fr-view a {
-    color: #a35176;
+    color: #fff;
     text-decoration: underline;
     cursor: pointer
 }
@@ -21384,7 +21384,7 @@ table td[class*=col-],table th[class*=col-] {
 .btn:disabled,.btn:disabled:hover {
     opacity: 1;
     background-color: #0c0c0cb5;
-    color: #a35176;
+    color: #fff;
 }
 
 .btn:disabled:hover {
@@ -21442,7 +21442,7 @@ table td[class*=col-],table th[class*=col-] {
 }
 
 .btn-success {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff!important
 }
 
@@ -21571,7 +21571,7 @@ table td[class*=col-],table th[class*=col-] {
 
 .btn-gray {
     background-color: rgba(0,0,0,.05);
-    color: #a35176;
+    color: #fff;
     font-weight: 500;
     padding-left: 0;
     padding-right: 0
@@ -21584,7 +21584,7 @@ table td[class*=col-],table th[class*=col-] {
 
 .btn-white-blue {
     background-color: #fff;
-    color: #a35176;
+    color: #fff;
     font-weight: 500;
     padding-left: 0;
     padding-right: 0
@@ -21597,12 +21597,12 @@ table td[class*=col-],table th[class*=col-] {
 
 .btn-primary-outline {
     background-color: #fff;
-    color: #a35176!important;
-    border: 2px solid #a35176
+    color: #fff!important;
+    border: 2px solid #fff
 }
 
 .btn-primary-outline:focus,.btn-primary-outline:hover {
-    background: #a35176;
+    background: #fff;
     color: #fff!important
 }
 
@@ -21937,7 +21937,7 @@ here is styles for menu:
 #fff - dark background color
 #fff - normal text color
 #fff - text titles color
-#a35176 - big title and ### color
+#fff - big title and ### color
 
 
 .btn-blue-alt-profile:focus,.btn-blue-alt-profile:hover {
@@ -22166,7 +22166,7 @@ here is styles for menu:
     width: 15px;
     height: 15px;
     color: #fff;
-    background: #a35176;
+    background: #fff;
     line-height: 15px;
     position: absolute;
     top: 0;
@@ -22595,7 +22595,7 @@ here is styles for menu:
 .notification-is-unread {
     width: 10px;
     height: 10px;
-    background: #a35176;
+    background: #fff;
     display: inline-block;
     border-radius: 10px;
     margin-right: 8px;
@@ -22842,7 +22842,7 @@ here is styles for menu:
 }
 
 .schedule i.cam-icon {
-    color: #a35176
+    color: #fff
 }
 
 .schedule .fc-content {
@@ -23146,7 +23146,7 @@ here is styles for menu:
 }
 
 .schedule .fc-widget-header {
-    background: #a35176;
+    background: #fff;
     height: 43px;
     line-height: 43px;
     font-size: 16px;
@@ -23215,7 +23215,7 @@ here is styles for menu:
 }
 
 .schedule-customized i.cam-icon {
-    color: #a35176
+    color: #fff
 }
 
 .schedule-customized .fc-content {
@@ -23235,7 +23235,7 @@ here is styles for menu:
 }
 
 .schedule-customized .fc-body,.schedule-customized .fc-head {
-    color: #a35176
+    color: #fff
 }
 
 .schedule-customized .fc-axis:first-child {
@@ -23340,7 +23340,7 @@ here is styles for menu:
 }
 
 .schedule-customized .fc-widget-header {
-    background: #a35176;
+    background: #fff;
     height: 43px;
     line-height: 43px;
     font-size: 16px;
@@ -23587,7 +23587,7 @@ here is styles for menu:
 }
 
 .qnav-desktop .qnav-items li .switch-api {
-    background: #a35176;
+    background: #fff;
     width: 30px;
     height: 30px;
     display: flex;
@@ -23732,7 +23732,7 @@ here is styles for menu:
 .search-container .search-result .write-note {
     float: right;
     font-size: .9em;
-    color: #a35176;
+    color: #fff;
     font-weight: 700;
     cursor: pointer
 }
@@ -23814,23 +23814,23 @@ here is styles for menu:
 }
 
 .tooltip.bs-tooltip-top .arrow:before {
-    border-top-color: #a35176
+    border-top-color: #fff
 }
 
 .tooltip.bs-tooltip-left .arrow:before {
-    border-left-color: #a35176
+    border-left-color: #fff
 }
 
 .tooltip.bs-tooltip-right .arrow:before {
-    border-right-color: #a35176
+    border-right-color: #fff
 }
 
 .tooltip.bs-tooltip-bottom .arrow:before {
-    border-bottom-color: #a35176
+    border-bottom-color: #fff
 }
 
 .tooltip .tooltip-inner {
-    background-color: #a35176!important
+    background-color: #fff!important
 }
 
 .tooltip.tooltip-min-width-200 .tooltip-inner {
@@ -23960,7 +23960,7 @@ here is styles for menu:
 }
 
 .assignment-type-bullet .-active {
-    background: #a35176
+    background: #fff
 }
 
 section {
@@ -24086,7 +24086,7 @@ expandable-section .body.-full-width {
 .-news-pupil-item .-is-unread {
     width: 10px;
     height: 10px;
-    background: #a35176;
+    background: #fff;
     border-radius: 10px;
     margin-right: 5px;
     display: inline-block
@@ -24097,7 +24097,7 @@ expandable-section .body.-full-width {
 }
 
 .-news-pupil-item.-active {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -24183,7 +24183,7 @@ expandable-section .body.-full-width {
 }
 
 .dialog-confirm .mat-dialog-container .dialog-content .icon-container.primary {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -24359,7 +24359,7 @@ expandable-section .body.-full-width {
 .matrix>tfoot>tr>td {
     background: #eee;
     cursor: pointer;
-    color: #a35176;
+    color: #fff;
     font-weight: 600
 }
 
@@ -24508,7 +24508,7 @@ expandable-section .body.-full-width {
 }
 
 .mat-calendar-body-end-range {
-    background-color: #a35176!important;
+    background-color: #fff!important;
     border-top-right-radius: 100px;
     border-bottom-right-radius: 100px
 }
@@ -24759,11 +24759,11 @@ expandable-section .body.-full-width {
     width: 12px;
     height: 12px;
     border-radius: 100%;
-    background-color: #a35176
+    background-color: #fff
 }
 
 .event-list .-item.-selected {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .event-list .-item.-selected,.event-list .-item.-selected .text-muted {
@@ -24775,7 +24775,7 @@ expandable-section .body.-full-width {
 }
 
 .event-list .-item:hover {
-    background-color: #a35176!important
+    background-color: #fff!important
 }
 
 .event-list .-item:hover,.event-list .-item:hover .text-muted {
@@ -24966,11 +24966,11 @@ expandable-section .body.-full-width {
     width: 12px;
     height: 12px;
     border-radius: 100%;
-    background-color: #a35176
+    background-color: #fff
 }
 
 .message-list .-item.-selected {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .message-list .-item.-selected,.message-list .-item.-selected .text-muted {
@@ -24978,7 +24978,7 @@ expandable-section .body.-full-width {
 }
 
 .message-list .-item:hover {
-    background-color: #a35176!important
+    background-color: #fff!important
 }
 
 .message-list .-item:hover,.message-list .-item:hover .text-muted {
@@ -25045,7 +25045,7 @@ expandable-section .body.-full-width {
     background: #121617;
     margin-bottom: -40px;
     font-size: .9em;
-    color: #a35176;
+    color: #fff;
     position: relative;
     z-index: 2
 }
@@ -25165,7 +25165,7 @@ expandable-section .body.-full-width {
 }
 
 .profile-view-add-urkund {
-    background-color: #a35176;
+    background-color: #fff;
     border-radius: 13px;
     width: 26px;
     height: 26px;
@@ -26174,7 +26174,7 @@ expandable-section .body.-full-width {
 }
 
 .test-settings .level-a {
-    background: #a35176
+    background: #fff
 }
 
 .test-settings .level-c {
@@ -26216,7 +26216,7 @@ expandable-section .body.-full-width {
 }
 
 .input-spec-a {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .input-spec-c {
@@ -26287,7 +26287,7 @@ expandable-section .body.-full-width {
 .add-new-item {
     display: block;
     text-transform: uppercase;
-    color: #a35176;
+    color: #fff;
     font-weight: 700;
     width: auto
 }
@@ -26297,7 +26297,7 @@ expandable-section .body.-full-width {
     height: 25px;
     border-radius: 25px;
     border: 2px solid;
-    color: #a35176;
+    color: #fff;
     line-height: 25px;
     text-align: center;
     margin-top: -3px;
@@ -26376,8 +26376,8 @@ expandable-section .body.-full-width {
 }
 
 .selected-option-value {
-    background: #a35176;
-    border-color: #a35176!important;
+    background: #fff;
+    border-color: #fff!important;
     color: #fff
 }
 
@@ -26555,7 +26555,7 @@ expandable-section .body.-full-width {
 .open-settings {
     font-size: .9em;
     font-weight: 500;
-    color: #a35176;
+    color: #fff;
 }
 
 .text-color-link {
@@ -26651,8 +26651,8 @@ expandable-section .body.-full-width {
 }
 
 .correct_select {
-    background: #a35176!important;
-    border-color: #a35176!important;
+    background: #fff!important;
+    border-color: #fff!important;
     color: #fff
 }
 
@@ -26763,7 +26763,7 @@ app-leisure-time-interface {
 }
 
 .leisure-time .-simple-cal .-active-week {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -26818,10 +26818,10 @@ app-leisure-time-interface {
 }
 
 .leisure-time .-open-times {
-    border: 1px solid #a35176;
+    border: 1px solid #fff;
     background: rgba(15,56,89,.15);
     border-radius: 4px;
-    color: #a35176
+    color: #fff
 }
 
 .leisure-time .-save-success {
@@ -26864,7 +26864,7 @@ app-leisure-time-interface {
 .leisure-time-icon {
     width: 24px;
     height: 24px;
-    background: #a35176;
+    background: #fff;
     color: #fff;
     font-size: .8em!important;
     display: inline-block;
@@ -26883,7 +26883,7 @@ app-leisure-time-interface {
 
 .leisure-report-name {
     font-weight: 600;
-    color: #a35176
+    color: #fff
 }
 
 .leisure-time-weeks-container {
@@ -26915,7 +26915,7 @@ app-leisure-time-interface {
 }
 
 .selected-week-color {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -27025,7 +27025,7 @@ app-leisure-time-interface {
 }
 
 .print-table-header {
-    background: #a35176;
+    background: #fff;
     color: #fff;
     padding: 10px;
     font-size: .9em;
@@ -27077,7 +27077,7 @@ app-leisure-time-interface {
     }
 
     .print-matrix .matrix>thead>tr>th {
-        background-color: #a35176!important;
+        background-color: #fff!important;
         color: #fff!important;
         text-transform: none;
         font-size: 14px;
@@ -27204,7 +27204,7 @@ app-leisure-time-interface {
     .print-matrix .matrix>tfoot>tr>td {
         background: #eee!important;
         cursor: pointer;
-        color: #a35176!important;
+        color: #fff!important;
         font-weight: 600
     }
 
@@ -27381,7 +27381,7 @@ app-leisure-time-interface {
 }
 
 .chat .-unread {
-    background: #a35176!important
+    background: #fff!important
 }
 
 .chat .-online {
@@ -27437,7 +27437,7 @@ app-leisure-time-interface {
     width: 35px;
     height: 35px;
     border-radius: 40px;
-    background: #a35176;
+    background: #fff;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,.2);
     position: relative;
     color: #fff;
@@ -27450,7 +27450,7 @@ app-leisure-time-interface {
 }
 
 .chat-bubble.-unread {
-    background: #a35176!important
+    background: #fff!important
 }
 
 .chat-bubble.-online {
@@ -27566,7 +27566,7 @@ app-leisure-time-interface {
 }
 
 .chat-container .-chat-windows .-chat-window-header {
-    background: #a35176;
+    background: #fff;
     box-shadow: 0 5px 5px 0 rgba(0,0,0,.05);
     padding: 10px;
     font-size: .9em;
@@ -27793,7 +27793,7 @@ app-leisure-time-interface {
 .chat .-profile-image {
     border-radius: 30px;
     position: relative;
-    background-color: #a35176;
+    background-color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27826,7 +27826,7 @@ app-leisure-time-interface {
 }
 
 .chat .-chat-list .-chat-header {
-    background: #a35176;
+    background: #fff;
     padding: 10px;
     font-size: .9em;
     display: flex;
@@ -27904,11 +27904,11 @@ app-leisure-time-interface {
 }
 
 .status-dot.-primary .-circle {
-    background: #a35176
+    background: #fff
 }
 
 .status-dot.-primary .-pulse {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .update-prompt {
@@ -27921,7 +27921,7 @@ app-leisure-time-interface {
     top: 15px;
     font-size: .8em;
     font-weight: 500;
-    color: #a35176;
+    color: #fff;
     background: #fff;
     box-shadow: 0 2.5px 10px 0 rgba(0,0,0,.1);
     cursor: pointer;
@@ -28615,7 +28615,7 @@ body {
 }
 
 .mat-accent .mat-option.mat-selected:not(.mat-option-disabled),.mat-primary .mat-option.mat-selected:not(.mat-option-disabled) {
-    color: #a35176
+    color: #fff
 }
 
 .mat-warn .mat-option.mat-selected:not(.mat-option-disabled) {
@@ -28643,7 +28643,7 @@ body {
 }
 
 .mat-accent .mat-pseudo-checkbox-checked,.mat-accent .mat-pseudo-checkbox-indeterminate,.mat-primary .mat-pseudo-checkbox-checked,.mat-primary .mat-pseudo-checkbox-indeterminate,.mat-pseudo-checkbox-checked,.mat-pseudo-checkbox-indeterminate {
-    background: #a35176
+    background: #fff
 }
 
 .mat-warn .mat-pseudo-checkbox-checked,.mat-warn .mat-pseudo-checkbox-indeterminate {
@@ -28778,7 +28778,7 @@ body {
 
 .mat-badge-content {
     color: #fff;
-    background: #a35176
+    background: #fff
 }
 
 .cdk-high-contrast-active .mat-badge-content {
@@ -28787,7 +28787,7 @@ body {
 }
 
 .mat-badge-accent .mat-badge-content {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -28992,7 +28992,7 @@ body {
 }
 
 .mat-button.mat-accent,.mat-button.mat-primary,.mat-icon-button.mat-accent,.mat-icon-button.mat-primary,.mat-stroked-button.mat-accent,.mat-stroked-button.mat-primary {
-    color: #a35176
+    color: #fff
 }
 
 .mat-button.mat-warn,.mat-icon-button.mat-warn,.mat-stroked-button.mat-warn {
@@ -29004,7 +29004,7 @@ body {
 }
 
 .mat-button.mat-accent .mat-button-focus-overlay,.mat-button.mat-primary .mat-button-focus-overlay,.mat-icon-button.mat-accent .mat-button-focus-overlay,.mat-icon-button.mat-primary .mat-button-focus-overlay,.mat-stroked-button.mat-accent .mat-button-focus-overlay,.mat-stroked-button.mat-primary .mat-button-focus-overlay {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-button.mat-warn .mat-button-focus-overlay,.mat-icon-button.mat-warn .mat-button-focus-overlay,.mat-stroked-button.mat-warn .mat-button-focus-overlay {
@@ -29042,7 +29042,7 @@ body {
 }
 
 .mat-fab.mat-accent,.mat-fab.mat-primary,.mat-flat-button.mat-accent,.mat-flat-button.mat-primary,.mat-mini-fab.mat-accent,.mat-mini-fab.mat-primary,.mat-raised-button.mat-accent,.mat-raised-button.mat-primary {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-fab.mat-warn,.mat-flat-button.mat-warn,.mat-mini-fab.mat-warn,.mat-raised-button.mat-warn {
@@ -29185,7 +29185,7 @@ body {
 }
 
 .mat-checkbox-checked.mat-accent .mat-checkbox-background,.mat-checkbox-checked.mat-primary .mat-checkbox-background,.mat-checkbox-indeterminate.mat-accent .mat-checkbox-background,.mat-checkbox-indeterminate.mat-primary .mat-checkbox-background {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-checkbox-checked.mat-warn .mat-checkbox-background,.mat-checkbox-indeterminate.mat-warn .mat-checkbox-background {
@@ -29209,7 +29209,7 @@ body {
 }
 
 .mat-checkbox-checked:not(.mat-checkbox-disabled).mat-accent .mat-ripple-element,.mat-checkbox-checked:not(.mat-checkbox-disabled).mat-primary .mat-ripple-element,.mat-checkbox:active:not(.mat-checkbox-disabled).mat-accent .mat-ripple-element,.mat-checkbox:active:not(.mat-checkbox-disabled).mat-primary .mat-ripple-element {
-    background: #a35176
+    background: #fff
 }
 
 .mat-checkbox-checked:not(.mat-checkbox-disabled).mat-warn .mat-ripple-element,.mat-checkbox:active:not(.mat-checkbox-disabled).mat-warn .mat-ripple-element {
@@ -29243,7 +29243,7 @@ body {
 }
 
 .mat-chip.mat-standard-chip.mat-chip-selected.mat-primary {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -29271,7 +29271,7 @@ body {
 }
 
 .mat-chip.mat-standard-chip.mat-chip-selected.mat-accent {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -29365,7 +29365,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-datepicker-content.mat-accent .mat-calendar-body-selected {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -29395,7 +29395,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-datepicker-toggle-active,.mat-datepicker-toggle-active.mat-accent {
-    color: #a35176
+    color: #fff
 }
 
 .mat-datepicker-toggle-active.mat-warn {
@@ -29468,7 +29468,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-focused .mat-form-field-required-marker {
-    color: #a35176
+    color: #fff
 }
 
 .mat-form-field-ripple {
@@ -29476,7 +29476,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-form-field.mat-focused .mat-form-field-ripple,.mat-form-field.mat-focused .mat-form-field-ripple.mat-accent {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-form-field.mat-focused .mat-form-field-ripple.mat-warn {
@@ -29484,7 +29484,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid).mat-accent .mat-form-field-infix:after,.mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid) .mat-form-field-infix:after {
-    color: #a35176
+    color: #fff
 }
 
 .mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid).mat-warn .mat-form-field-infix:after,.mat-form-field.mat-form-field-invalid .mat-form-field-label,.mat-form-field.mat-form-field-invalid .mat-form-field-label.mat-accent,.mat-form-field.mat-form-field-invalid .mat-form-field-label .mat-form-field-required-marker {
@@ -29552,7 +29552,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-form-field-appearance-outline.mat-focused.mat-accent .mat-form-field-outline-thick,.mat-form-field-appearance-outline.mat-focused .mat-form-field-outline-thick {
-    color: #a35176
+    color: #fff
 }
 
 .mat-form-field-appearance-outline.mat-focused.mat-warn .mat-form-field-outline-thick,.mat-form-field-appearance-outline.mat-form-field-invalid.mat-form-field-invalid .mat-form-field-outline-thick {
@@ -29568,7 +29568,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-icon.mat-accent,.mat-icon.mat-primary {
-    color: #a35176
+    color: #fff
 }
 
 .mat-icon.mat-warn {
@@ -29604,7 +29604,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-accent .mat-input-element {
-    caret-color: #a35176
+    caret-color: #fff
 }
 
 .mat-form-field-invalid .mat-input-element,.mat-warn .mat-input-element {
@@ -29690,7 +29690,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-progress-bar-fill:after {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-progress-bar.mat-accent .mat-progress-bar-background {
@@ -29702,7 +29702,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-progress-bar.mat-accent .mat-progress-bar-fill:after {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-progress-bar.mat-warn .mat-progress-bar-background {
@@ -29718,7 +29718,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-progress-spinner.mat-accent circle,.mat-progress-spinner circle,.mat-spinner.mat-accent circle,.mat-spinner circle {
-    stroke: #a35176
+    stroke: #fff
 }
 
 .mat-progress-spinner.mat-warn circle,.mat-spinner.mat-warn circle {
@@ -29730,19 +29730,19 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-radio-button.mat-primary.mat-radio-checked .mat-radio-outer-circle {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .mat-radio-button.mat-primary.mat-radio-checked .mat-radio-persistent-ripple,.mat-radio-button.mat-primary .mat-radio-inner-circle,.mat-radio-button.mat-primary .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple),.mat-radio-button.mat-primary:active .mat-radio-persistent-ripple {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-persistent-ripple,.mat-radio-button.mat-accent .mat-radio-inner-circle,.mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple),.mat-radio-button.mat-accent:active .mat-radio-persistent-ripple {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-radio-button.mat-warn.mat-radio-checked .mat-radio-outer-circle {
@@ -29798,7 +29798,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-form-field.mat-focused.mat-accent .mat-select-arrow,.mat-form-field.mat-focused.mat-primary .mat-select-arrow {
-    color: #a35176
+    color: #fff
 }
 
 .mat-form-field.mat-focused.mat-warn .mat-select-arrow,.mat-form-field .mat-select.mat-select-invalid .mat-select-arrow {
@@ -29845,7 +29845,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-slide-toggle.mat-checked .mat-slide-toggle-thumb {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-slide-toggle.mat-checked .mat-slide-toggle-bar {
@@ -29853,7 +29853,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-slide-toggle.mat-checked .mat-ripple-element,.mat-slide-toggle.mat-primary.mat-checked .mat-slide-toggle-thumb {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-slide-toggle.mat-primary.mat-checked .mat-slide-toggle-bar {
@@ -29861,7 +29861,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-slide-toggle.mat-primary.mat-checked .mat-ripple-element {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-slide-toggle.mat-warn.mat-checked .mat-slide-toggle-thumb {
@@ -29894,7 +29894,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-primary .mat-slider-thumb,.mat-primary .mat-slider-thumb-label,.mat-primary .mat-slider-track-fill {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-primary .mat-slider-thumb-label-text {
@@ -29902,7 +29902,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-accent .mat-slider-thumb,.mat-accent .mat-slider-thumb-label,.mat-accent .mat-slider-track-fill {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-accent .mat-slider-thumb-label-text {
@@ -29987,7 +29987,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-step-header .mat-step-icon-selected,.mat-step-header .mat-step-icon-state-done,.mat-step-header .mat-step-icon-state-edit {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -30067,7 +30067,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-tab-group.mat-accent .mat-ink-bar,.mat-tab-nav-bar.mat-accent .mat-ink-bar {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-tab-group.mat-accent.mat-background-accent .mat-ink-bar,.mat-tab-nav-bar.mat-accent.mat-background-accent .mat-ink-bar {
@@ -30091,7 +30091,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-tab-group.mat-background-primary .mat-tab-header,.mat-tab-group.mat-background-primary .mat-tab-header-pagination,.mat-tab-group.mat-background-primary .mat-tab-links,.mat-tab-nav-bar.mat-background-primary .mat-tab-header,.mat-tab-nav-bar.mat-background-primary .mat-tab-header-pagination,.mat-tab-nav-bar.mat-background-primary .mat-tab-links {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-tab-group.mat-background-primary .mat-tab-label,.mat-tab-group.mat-background-primary .mat-tab-link,.mat-tab-nav-bar.mat-background-primary .mat-tab-label,.mat-tab-nav-bar.mat-background-primary .mat-tab-link {
@@ -30119,7 +30119,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-tab-group.mat-background-accent .mat-tab-header,.mat-tab-group.mat-background-accent .mat-tab-header-pagination,.mat-tab-group.mat-background-accent .mat-tab-links,.mat-tab-nav-bar.mat-background-accent .mat-tab-header,.mat-tab-nav-bar.mat-background-accent .mat-tab-header-pagination,.mat-tab-nav-bar.mat-background-accent .mat-tab-links {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-tab-group.mat-background-accent .mat-tab-label,.mat-tab-group.mat-background-accent .mat-tab-link,.mat-tab-nav-bar.mat-background-accent .mat-tab-label,.mat-tab-nav-bar.mat-background-accent .mat-tab-link {
@@ -30176,7 +30176,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-toolbar.mat-accent,.mat-toolbar.mat-primary {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -30212,7 +30212,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-simple-snackbar-action {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-ripple-element {
@@ -30237,7 +30237,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-accent .mat-option.mat-selected:not(.mat-option-disabled),.theme-alternate .mat-primary .mat-option.mat-selected:not(.mat-option-disabled) {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-warn .mat-option.mat-selected:not(.mat-option-disabled) {
@@ -30265,7 +30265,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-accent .mat-pseudo-checkbox-checked,.theme-alternate .mat-accent .mat-pseudo-checkbox-indeterminate,.theme-alternate .mat-primary .mat-pseudo-checkbox-checked,.theme-alternate .mat-primary .mat-pseudo-checkbox-indeterminate,.theme-alternate .mat-pseudo-checkbox-checked,.theme-alternate .mat-pseudo-checkbox-indeterminate {
-    background: #a35176
+    background: #fff
 }
 
 .theme-alternate .mat-warn .mat-pseudo-checkbox-checked,.theme-alternate .mat-warn .mat-pseudo-checkbox-indeterminate {
@@ -30404,7 +30404,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 
 .theme-alternate .mat-badge-content {
     color: #fff;
-    background: #a35176
+    background: #fff
 }
 
 .cdk-high-contrast-active .theme-alternate .mat-badge-content {
@@ -30413,7 +30413,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-badge-accent .mat-badge-content {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -30618,7 +30618,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-button.mat-accent,.theme-alternate .mat-button.mat-primary,.theme-alternate .mat-icon-button.mat-accent,.theme-alternate .mat-icon-button.mat-primary,.theme-alternate .mat-stroked-button.mat-accent,.theme-alternate .mat-stroked-button.mat-primary {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-button.mat-warn,.theme-alternate .mat-icon-button.mat-warn,.theme-alternate .mat-stroked-button.mat-warn {
@@ -30630,7 +30630,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-button.mat-accent .mat-button-focus-overlay,.theme-alternate .mat-button.mat-primary .mat-button-focus-overlay,.theme-alternate .mat-icon-button.mat-accent .mat-button-focus-overlay,.theme-alternate .mat-icon-button.mat-primary .mat-button-focus-overlay,.theme-alternate .mat-stroked-button.mat-accent .mat-button-focus-overlay,.theme-alternate .mat-stroked-button.mat-primary .mat-button-focus-overlay {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-button.mat-warn .mat-button-focus-overlay,.theme-alternate .mat-icon-button.mat-warn .mat-button-focus-overlay,.theme-alternate .mat-stroked-button.mat-warn .mat-button-focus-overlay {
@@ -30668,7 +30668,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-fab.mat-accent,.theme-alternate .mat-fab.mat-primary,.theme-alternate .mat-flat-button.mat-accent,.theme-alternate .mat-flat-button.mat-primary,.theme-alternate .mat-mini-fab.mat-accent,.theme-alternate .mat-mini-fab.mat-primary,.theme-alternate .mat-raised-button.mat-accent,.theme-alternate .mat-raised-button.mat-primary {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-fab.mat-warn,.theme-alternate .mat-flat-button.mat-warn,.theme-alternate .mat-mini-fab.mat-warn,.theme-alternate .mat-raised-button.mat-warn {
@@ -30811,7 +30811,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-checkbox-checked.mat-accent .mat-checkbox-background,.theme-alternate .mat-checkbox-checked.mat-primary .mat-checkbox-background,.theme-alternate .mat-checkbox-indeterminate.mat-accent .mat-checkbox-background,.theme-alternate .mat-checkbox-indeterminate.mat-primary .mat-checkbox-background {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-checkbox-checked.mat-warn .mat-checkbox-background,.theme-alternate .mat-checkbox-indeterminate.mat-warn .mat-checkbox-background {
@@ -30835,7 +30835,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-checkbox-checked:not(.mat-checkbox-disabled).mat-accent .mat-ripple-element,.theme-alternate .mat-checkbox-checked:not(.mat-checkbox-disabled).mat-primary .mat-ripple-element,.theme-alternate .mat-checkbox:active:not(.mat-checkbox-disabled).mat-accent .mat-ripple-element,.theme-alternate .mat-checkbox:active:not(.mat-checkbox-disabled).mat-primary .mat-ripple-element {
-    background: #a35176
+    background: #fff
 }
 
 .theme-alternate .mat-checkbox-checked:not(.mat-checkbox-disabled).mat-warn .mat-ripple-element,.theme-alternate .mat-checkbox:active:not(.mat-checkbox-disabled).mat-warn .mat-ripple-element {
@@ -30869,7 +30869,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-chip.mat-standard-chip.mat-chip-selected.mat-primary {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -30897,7 +30897,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-chip.mat-standard-chip.mat-chip-selected.mat-accent {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -30972,7 +30972,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-calendar-body-selected {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -30991,7 +30991,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-datepicker-content.mat-accent .mat-calendar-body-selected {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -31021,7 +31021,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-datepicker-toggle-active,.theme-alternate .mat-datepicker-toggle-active.mat-accent {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-datepicker-toggle-active.mat-warn {
@@ -31086,7 +31086,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-form-field.mat-focused .mat-form-field-label,.theme-alternate .mat-form-field.mat-focused .mat-form-field-label.mat-accent {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-form-field.mat-focused .mat-form-field-label.mat-warn {
@@ -31094,7 +31094,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-focused .mat-form-field-required-marker {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-form-field-ripple {
@@ -31102,7 +31102,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-form-field.mat-focused .mat-form-field-ripple,.theme-alternate .mat-form-field.mat-focused .mat-form-field-ripple.mat-accent {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-form-field.mat-focused .mat-form-field-ripple.mat-warn {
@@ -31110,7 +31110,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid).mat-accent .mat-form-field-infix:after,.theme-alternate .mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid) .mat-form-field-infix:after {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid).mat-warn .mat-form-field-infix:after,.theme-alternate .mat-form-field.mat-form-field-invalid .mat-form-field-label,.theme-alternate .mat-form-field.mat-form-field-invalid .mat-form-field-label.mat-accent,.theme-alternate .mat-form-field.mat-form-field-invalid .mat-form-field-label .mat-form-field-required-marker {
@@ -31178,7 +31178,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-form-field-appearance-outline.mat-focused.mat-accent .mat-form-field-outline-thick,.theme-alternate .mat-form-field-appearance-outline.mat-focused .mat-form-field-outline-thick {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-form-field-appearance-outline.mat-focused.mat-warn .mat-form-field-outline-thick,.theme-alternate .mat-form-field-appearance-outline.mat-form-field-invalid.mat-form-field-invalid .mat-form-field-outline-thick {
@@ -31194,7 +31194,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-icon.mat-accent,.theme-alternate .mat-icon.mat-primary {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-icon.mat-warn {
@@ -31210,7 +31210,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-input-element {
-    caret-color: #a35176
+    caret-color: #fff
 }
 
 .theme-alternate .mat-input-element::placeholder {
@@ -31238,7 +31238,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-accent .mat-input-element {
-    caret-color: #a35176
+    caret-color: #fff
 }
 
 .theme-alternate .mat-form-field-invalid .mat-input-element,.theme-alternate .mat-warn .mat-input-element {
@@ -31324,7 +31324,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-progress-bar-fill:after {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-progress-bar.mat-accent .mat-progress-bar-background {
@@ -31336,7 +31336,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-progress-bar.mat-accent .mat-progress-bar-fill:after {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-progress-bar.mat-warn .mat-progress-bar-background {
@@ -31352,7 +31352,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-progress-spinner.mat-accent circle,.theme-alternate .mat-progress-spinner circle,.theme-alternate .mat-spinner.mat-accent circle,.theme-alternate .mat-spinner circle {
-    stroke: #a35176
+    stroke: #fff
 }
 
 .theme-alternate .mat-progress-spinner.mat-warn circle,.theme-alternate .mat-spinner.mat-warn circle {
@@ -31364,19 +31364,19 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-radio-button.mat-primary.mat-radio-checked .mat-radio-outer-circle {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .theme-alternate .mat-radio-button.mat-primary.mat-radio-checked .mat-radio-persistent-ripple,.theme-alternate .mat-radio-button.mat-primary .mat-radio-inner-circle,.theme-alternate .mat-radio-button.mat-primary .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple),.theme-alternate .mat-radio-button.mat-primary:active .mat-radio-persistent-ripple {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .theme-alternate .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-persistent-ripple,.theme-alternate .mat-radio-button.mat-accent .mat-radio-inner-circle,.theme-alternate .mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple),.theme-alternate .mat-radio-button.mat-accent:active .mat-radio-persistent-ripple {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-radio-button.mat-warn.mat-radio-checked .mat-radio-outer-circle {
@@ -31428,7 +31428,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-form-field.mat-focused.mat-accent .mat-select-arrow,.theme-alternate .mat-form-field.mat-focused.mat-primary .mat-select-arrow {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-form-field.mat-focused.mat-warn .mat-select-arrow,.theme-alternate .mat-form-field .mat-select.mat-select-invalid .mat-select-arrow {
@@ -31476,7 +31476,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-slide-toggle.mat-checked .mat-slide-toggle-thumb {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-slide-toggle.mat-checked .mat-slide-toggle-bar {
@@ -31484,7 +31484,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-slide-toggle.mat-checked .mat-ripple-element,.theme-alternate .mat-slide-toggle.mat-primary.mat-checked .mat-slide-toggle-thumb {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-slide-toggle.mat-primary.mat-checked .mat-slide-toggle-bar {
@@ -31492,7 +31492,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-slide-toggle.mat-primary.mat-checked .mat-ripple-element {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-slide-toggle.mat-warn.mat-checked .mat-slide-toggle-thumb {
@@ -31525,7 +31525,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-primary .mat-slider-thumb,.theme-alternate .mat-primary .mat-slider-thumb-label,.theme-alternate .mat-primary .mat-slider-track-fill {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-primary .mat-slider-thumb-label-text {
@@ -31533,7 +31533,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-accent .mat-slider-thumb,.theme-alternate .mat-accent .mat-slider-thumb-label,.theme-alternate .mat-accent .mat-slider-track-fill {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-accent .mat-slider-thumb-label-text {
@@ -31610,7 +31610,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-step-header .mat-step-icon-selected,.theme-alternate .mat-step-header .mat-step-icon-state-done,.theme-alternate .mat-step-header .mat-step-icon-state-edit {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -31678,7 +31678,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-tab-group.mat-primary .mat-ink-bar,.theme-alternate .mat-tab-nav-bar.mat-primary .mat-ink-bar {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-tab-group.mat-primary.mat-background-primary .mat-ink-bar,.theme-alternate .mat-tab-nav-bar.mat-primary.mat-background-primary .mat-ink-bar {
@@ -31690,7 +31690,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-tab-group.mat-accent .mat-ink-bar,.theme-alternate .mat-tab-nav-bar.mat-accent .mat-ink-bar {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-tab-group.mat-accent.mat-background-accent .mat-ink-bar,.theme-alternate .mat-tab-nav-bar.mat-accent.mat-background-accent .mat-ink-bar {
@@ -31714,7 +31714,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-tab-group.mat-background-primary .mat-tab-header,.theme-alternate .mat-tab-group.mat-background-primary .mat-tab-header-pagination,.theme-alternate .mat-tab-group.mat-background-primary .mat-tab-links,.theme-alternate .mat-tab-nav-bar.mat-background-primary .mat-tab-header,.theme-alternate .mat-tab-nav-bar.mat-background-primary .mat-tab-header-pagination,.theme-alternate .mat-tab-nav-bar.mat-background-primary .mat-tab-links {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-tab-group.mat-background-primary .mat-tab-label,.theme-alternate .mat-tab-group.mat-background-primary .mat-tab-link,.theme-alternate .mat-tab-nav-bar.mat-background-primary .mat-tab-label,.theme-alternate .mat-tab-nav-bar.mat-background-primary .mat-tab-link {
@@ -31742,7 +31742,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-tab-group.mat-background-accent .mat-tab-header,.theme-alternate .mat-tab-group.mat-background-accent .mat-tab-header-pagination,.theme-alternate .mat-tab-group.mat-background-accent .mat-tab-links,.theme-alternate .mat-tab-nav-bar.mat-background-accent .mat-tab-header,.theme-alternate .mat-tab-nav-bar.mat-background-accent .mat-tab-header-pagination,.theme-alternate .mat-tab-nav-bar.mat-background-accent .mat-tab-links {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-tab-group.mat-background-accent .mat-tab-label,.theme-alternate .mat-tab-group.mat-background-accent .mat-tab-link,.theme-alternate .mat-tab-nav-bar.mat-background-accent .mat-tab-label,.theme-alternate .mat-tab-nav-bar.mat-background-accent .mat-tab-link {
@@ -31799,7 +31799,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-toolbar.mat-accent,.theme-alternate .mat-toolbar.mat-primary {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -31912,7 +31912,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 
 .data-table table tbody tr td .-highlight {
     font-weight: 700;
-    color: #a35176
+    color: #fff
 }
 
 .data-table table tbody tr td .fake-badge {
@@ -32129,7 +32129,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .data-table .mat-row.-active {
-    background-color: #a35176!important
+    background-color: #fff!important
 }
 
 .data-table .mat-row.-active .mat-cell {
@@ -32334,7 +32334,7 @@ mat-form-field {
 }
 
 .mat-step-icon-selected,.mat-step-icon-state-edit {
-    background: #a35176!important
+    background: #fff!important
 }
 
 .mat-checkbox-layout {
@@ -32586,11 +32586,11 @@ mat-tab-group.narrow-tabs .mat-ink-bar {
 
 .snackbar-info {
     background: #ccc;
-    color: #a35176
+    color: #fff
 }
 
 .snackbar-info .mat-simple-snackbar-action {
-    color: #a35176!important
+    color: #fff!important
 }
 
 .snackbar-warning {
@@ -32931,7 +32931,7 @@ mat-tab-group.narrow-tabs .mat-ink-bar {
         transition: all .2s ease-in-out;
         top: 0;
         left: 0;
-        background-color: #a35176;
+        background-color: #fff;
         overflow: hidden;
         z-index: 999
     }
@@ -32960,7 +32960,7 @@ mat-tab-group.narrow-tabs .mat-ink-bar {
         padding: 0;
         margin-left: 0;
         height: auto;
-        background: #a35176;
+        background: #fff;
         overflow: hidden
     }
 
@@ -33033,7 +33033,7 @@ mat-tab-group.narrow-tabs .mat-ink-bar {
     }
 
     .qnav-mobile .switch-api {
-        background: #a35176;
+        background: #fff;
         width: 30px;
         height: 30px;
         display: flex;
@@ -33442,7 +33442,7 @@ mat-tab-group.narrow-tabs .mat-ink-bar {
     margin-right: 2px;
     opacity: .6;
     transition: all .2s ease-in-out;
-    color: #a35176
+    color: #fff
 }
 
 .sfi .-tabs .mat-ink-bar {
@@ -35794,13 +35794,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-primary {
-    color: #a35176;
+    color: #fff;
     background-color: #007bff;
     border-color: #007bff
 }
 
 .btn-primary.focus,.btn-primary:focus,.btn-primary:hover {
-    color: #a35176;
+    color: #fff;
     background-color: #0069d9;
     border-color: #0062cc
 }
@@ -35810,13 +35810,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-primary.disabled,.btn-primary:disabled {
-    color: #a35176;
+    color: #fff;
     background-color: #007bff;
     border-color: #007bff
 }
 
 .btn-primary:not(:disabled):not(.disabled).active,.btn-primary:not(:disabled):not(.disabled):active,.show>.btn-primary.dropdown-toggle {
-    color: #a35176;
+    color: #fff;
     background-color: #0062cc;
     border-color: #005cbf
 }
@@ -35826,13 +35826,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-secondary {
-    color: #a35176;
+    color: #fff;
     background-color: #6c757d;
     border-color: #6c757d
 }
 
 .btn-secondary.focus,.btn-secondary:focus,.btn-secondary:hover {
-    color: #a35176;
+    color: #fff;
     background-color: #5a6268;
     border-color: #545b62
 }
@@ -35842,13 +35842,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-secondary.disabled,.btn-secondary:disabled {
-    color: #a35176;
+    color: #fff;
     background-color: #6c757d;
     border-color: #6c757d
 }
 
 .btn-secondary:not(:disabled):not(.disabled).active,.btn-secondary:not(:disabled):not(.disabled):active,.show>.btn-secondary.dropdown-toggle {
-    color: #a35176;
+    color: #fff;
     background-color: #545b62;
     border-color: #4e555b
 }
@@ -35858,13 +35858,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-success {
-    color: #a35176;
+    color: #fff;
     background-color: #28a745;
     border-color: #28a745
 }
 
 .btn-success.focus,.btn-success:focus,.btn-success:hover {
-    color: #a35176;
+    color: #fff;
     background-color: #218838;
     border-color: #1e7e34
 }
@@ -35874,13 +35874,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-success.disabled,.btn-success:disabled {
-    color: #a35176;
+    color: #fff;
     background-color: #28a745;
     border-color: #28a745
 }
 
 .btn-success:not(:disabled):not(.disabled).active,.btn-success:not(:disabled):not(.disabled):active,.show>.btn-success.dropdown-toggle {
-    color: #a35176;
+    color: #fff;
     background-color: #1e7e34;
     border-color: #1c7430
 }
@@ -35890,13 +35890,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-info {
-    color: #a35176;
+    color: #fff;
     background-color: #17a2b8;
     border-color: #17a2b8
 }
 
 .btn-info.focus,.btn-info:focus,.btn-info:hover {
-    color: #a35176;
+    color: #fff;
     background-color: #138496;
     border-color: #117a8b
 }
@@ -35906,13 +35906,13 @@ a.btn.disabled,fieldset:disabled a.btn {
 }
 
 .btn-info.disabled,.btn-info:disabled {
-    color: #a35176;
+    color: #fff;
     background-color: #17a2b8;
     border-color: #17a2b8
 }
 
 .btn-info:not(:disabled):not(.disabled).active,.btn-info:not(:disabled):not(.disabled):active,.show>.btn-info.dropdown-toggle {
-    color: #a35176;
+    color: #fff;
     background-color: #117a8b;
     border-color: #10707f
 }
@@ -54053,7 +54053,7 @@ a,a:hover {
 }
 
 .ng-link-custom {
-    color: #a35176;
+    color: #fff;
     cursor: pointer;
     text-decoration: underline
 }
@@ -54072,7 +54072,7 @@ hr {
 }
 
 .background-primary {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .background-primary-light {
@@ -54219,7 +54219,7 @@ app-sfi-content {
 }
 
 .-text.-brand {
-    color: #a35176
+    color: #fff
 }
 
 .-text.-size.-small {
@@ -54744,11 +54744,11 @@ table td[class*=col-],table th[class*=col-] {
 .label.-alt {
     font-size: 15px;
     font-weight: 700;
-    color: #a35176
+    color: #fff
 }
 
 .fr-view a {
-    color: #a35176;
+    color: #fff;
     text-decoration: underline;
     cursor: pointer
 }
@@ -54833,7 +54833,7 @@ table td[class*=col-],table th[class*=col-] {
 .btn:disabled,.btn:disabled:hover {
     opacity: 1;
     background-color: #0c0c0cb5;
-    color: #a35176;
+    color: #fff;
 }
 
 .btn:disabled:hover {
@@ -54891,7 +54891,7 @@ table td[class*=col-],table th[class*=col-] {
 }
 
 .btn-success {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff!important
 }
 
@@ -55020,7 +55020,7 @@ table td[class*=col-],table th[class*=col-] {
 
 .btn-gray {
     background-color: rgba(0,0,0,.05);
-    color: #a35176;
+    color: #fff;
     font-weight: 500;
     padding-left: 0;
     padding-right: 0
@@ -55033,7 +55033,7 @@ table td[class*=col-],table th[class*=col-] {
 
 .btn-white-blue {
     background-color: #fff;
-    color: #a35176;
+    color: #fff;
     font-weight: 500;
     padding-left: 0;
     padding-right: 0
@@ -55046,12 +55046,12 @@ table td[class*=col-],table th[class*=col-] {
 
 .btn-primary-outline {
     background-color: #fff;
-    color: #a35176!important;
-    border: 2px solid #a35176
+    color: #fff!important;
+    border: 2px solid #fff
 }
 
 .btn-primary-outline:focus,.btn-primary-outline:hover {
-    background: #a35176;
+    background: #fff;
     color: #fff!important
 }
 
@@ -55386,7 +55386,7 @@ here is styles for menu:
 #fff - dark background color
 #fff - normal text color
 #fff - text titles color
-#a35176 - big title and ### color
+#fff - big title and ### color
 
 
 .btn-blue-alt-profile:focus,.btn-blue-alt-profile:hover {
@@ -55615,7 +55615,7 @@ here is styles for menu:
     width: 15px;
     height: 15px;
     color: #fff;
-    background: #a35176;
+    background: #fff;
     line-height: 15px;
     position: absolute;
     top: 0;
@@ -56044,7 +56044,7 @@ here is styles for menu:
 .notification-is-unread {
     width: 10px;
     height: 10px;
-    background: #a35176;
+    background: #fff;
     display: inline-block;
     border-radius: 10px;
     margin-right: 8px;
@@ -56291,7 +56291,7 @@ here is styles for menu:
 }
 
 .schedule i.cam-icon {
-    color: #a35176
+    color: #fff
 }
 
 .schedule .fc-content {
@@ -56595,7 +56595,7 @@ here is styles for menu:
 }
 
 .schedule .fc-widget-header {
-    background: #a35176;
+    background: #fff;
     height: 43px;
     line-height: 43px;
     font-size: 16px;
@@ -56664,7 +56664,7 @@ here is styles for menu:
 }
 
 .schedule-customized i.cam-icon {
-    color: #a35176
+    color: #fff
 }
 
 .schedule-customized .fc-content {
@@ -56684,7 +56684,7 @@ here is styles for menu:
 }
 
 .schedule-customized .fc-body,.schedule-customized .fc-head {
-    color: #a35176
+    color: #fff
 }
 
 .schedule-customized .fc-axis:first-child {
@@ -56789,7 +56789,7 @@ here is styles for menu:
 }
 
 .schedule-customized .fc-widget-header {
-    background: #a35176;
+    background: #fff;
     height: 43px;
     line-height: 43px;
     font-size: 16px;
@@ -57036,7 +57036,7 @@ here is styles for menu:
 }
 
 .qnav-desktop .qnav-items li .switch-api {
-    background: #a35176;
+    background: #fff;
     width: 30px;
     height: 30px;
     display: flex;
@@ -57181,7 +57181,7 @@ here is styles for menu:
 .search-container .search-result .write-note {
     float: right;
     font-size: .9em;
-    color: #a35176;
+    color: #fff;
     font-weight: 700;
     cursor: pointer
 }
@@ -57263,23 +57263,23 @@ here is styles for menu:
 }
 
 .tooltip.bs-tooltip-top .arrow:before {
-    border-top-color: #a35176
+    border-top-color: #fff
 }
 
 .tooltip.bs-tooltip-left .arrow:before {
-    border-left-color: #a35176
+    border-left-color: #fff
 }
 
 .tooltip.bs-tooltip-right .arrow:before {
-    border-right-color: #a35176
+    border-right-color: #fff
 }
 
 .tooltip.bs-tooltip-bottom .arrow:before {
-    border-bottom-color: #a35176
+    border-bottom-color: #fff
 }
 
 .tooltip .tooltip-inner {
-    background-color: #a35176!important
+    background-color: #fff!important
 }
 
 .tooltip.tooltip-min-width-200 .tooltip-inner {
@@ -57409,7 +57409,7 @@ here is styles for menu:
 }
 
 .assignment-type-bullet .-active {
-    background: #a35176
+    background: #fff
 }
 
 section {
@@ -57535,7 +57535,7 @@ expandable-section .body.-full-width {
 .-news-pupil-item .-is-unread {
     width: 10px;
     height: 10px;
-    background: #a35176;
+    background: #fff;
     border-radius: 10px;
     margin-right: 5px;
     display: inline-block
@@ -57546,7 +57546,7 @@ expandable-section .body.-full-width {
 }
 
 .-news-pupil-item.-active {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -57632,7 +57632,7 @@ expandable-section .body.-full-width {
 }
 
 .dialog-confirm .mat-dialog-container .dialog-content .icon-container.primary {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -57808,7 +57808,7 @@ expandable-section .body.-full-width {
 .matrix>tfoot>tr>td {
     background: #eee;
     cursor: pointer;
-    color: #a35176;
+    color: #fff;
     font-weight: 600
 }
 
@@ -57957,7 +57957,7 @@ expandable-section .body.-full-width {
 }
 
 .mat-calendar-body-end-range {
-    background-color: #a35176!important;
+    background-color: #fff!important;
     border-top-right-radius: 100px;
     border-bottom-right-radius: 100px
 }
@@ -58208,11 +58208,11 @@ expandable-section .body.-full-width {
     width: 12px;
     height: 12px;
     border-radius: 100%;
-    background-color: #a35176
+    background-color: #fff
 }
 
 .event-list .-item.-selected {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .event-list .-item.-selected,.event-list .-item.-selected .text-muted {
@@ -58224,7 +58224,7 @@ expandable-section .body.-full-width {
 }
 
 .event-list .-item:hover {
-    background-color: #a35176!important
+    background-color: #fff!important
 }
 
 .event-list .-item:hover,.event-list .-item:hover .text-muted {
@@ -58415,11 +58415,11 @@ expandable-section .body.-full-width {
     width: 12px;
     height: 12px;
     border-radius: 100%;
-    background-color: #a35176
+    background-color: #fff
 }
 
 .message-list .-item.-selected {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .message-list .-item.-selected,.message-list .-item.-selected .text-muted {
@@ -58427,7 +58427,7 @@ expandable-section .body.-full-width {
 }
 
 .message-list .-item:hover {
-    background-color: #a35176!important
+    background-color: #fff!important
 }
 
 .message-list .-item:hover,.message-list .-item:hover .text-muted {
@@ -58494,7 +58494,7 @@ expandable-section .body.-full-width {
     background: #121617;
     margin-bottom: -40px;
     font-size: .9em;
-    color: #a35176;
+    color: #fff;
     position: relative;
     z-index: 2
 }
@@ -58614,7 +58614,7 @@ expandable-section .body.-full-width {
 }
 
 .profile-view-add-urkund {
-    background-color: #a35176;
+    background-color: #fff;
     border-radius: 13px;
     width: 26px;
     height: 26px;
@@ -59623,7 +59623,7 @@ expandable-section .body.-full-width {
 }
 
 .test-settings .level-a {
-    background: #a35176
+    background: #fff
 }
 
 .test-settings .level-c {
@@ -59665,7 +59665,7 @@ expandable-section .body.-full-width {
 }
 
 .input-spec-a {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .input-spec-c {
@@ -59736,7 +59736,7 @@ expandable-section .body.-full-width {
 .add-new-item {
     display: block;
     text-transform: uppercase;
-    color: #a35176;
+    color: #fff;
     font-weight: 700;
     width: auto
 }
@@ -59746,7 +59746,7 @@ expandable-section .body.-full-width {
     height: 25px;
     border-radius: 25px;
     border: 2px solid;
-    color: #a35176;
+    color: #fff;
     line-height: 25px;
     text-align: center;
     margin-top: -3px;
@@ -59825,8 +59825,8 @@ expandable-section .body.-full-width {
 }
 
 .selected-option-value {
-    background: #a35176;
-    border-color: #a35176!important;
+    background: #fff;
+    border-color: #fff!important;
     color: #fff
 }
 
@@ -60004,7 +60004,7 @@ expandable-section .body.-full-width {
 .open-settings {
     font-size: .9em;
     font-weight: 500;
-    color: #a35176;
+    color: #fff;
 }
 
 .text-color-link {
@@ -60100,8 +60100,8 @@ expandable-section .body.-full-width {
 }
 
 .correct_select {
-    background: #a35176!important;
-    border-color: #a35176!important;
+    background: #fff!important;
+    border-color: #fff!important;
     color: #fff
 }
 
@@ -60212,7 +60212,7 @@ app-leisure-time-interface {
 }
 
 .leisure-time .-simple-cal .-active-week {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -60267,10 +60267,10 @@ app-leisure-time-interface {
 }
 
 .leisure-time .-open-times {
-    border: 1px solid #a35176;
+    border: 1px solid #fff;
     background: rgba(15,56,89,.15);
     border-radius: 4px;
-    color: #a35176
+    color: #fff
 }
 
 .leisure-time .-save-success {
@@ -60313,7 +60313,7 @@ app-leisure-time-interface {
 .leisure-time-icon {
     width: 24px;
     height: 24px;
-    background: #a35176;
+    background: #fff;
     color: #fff;
     font-size: .8em!important;
     display: inline-block;
@@ -60332,7 +60332,7 @@ app-leisure-time-interface {
 
 .leisure-report-name {
     font-weight: 600;
-    color: #a35176
+    color: #fff
 }
 
 .leisure-time-weeks-container {
@@ -60364,7 +60364,7 @@ app-leisure-time-interface {
 }
 
 .selected-week-color {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -60474,7 +60474,7 @@ app-leisure-time-interface {
 }
 
 .print-table-header {
-    background: #a35176;
+    background: #fff;
     color: #fff;
     padding: 10px;
     font-size: .9em;
@@ -60526,7 +60526,7 @@ app-leisure-time-interface {
     }
 
     .print-matrix .matrix>thead>tr>th {
-        background-color: #a35176!important;
+        background-color: #fff!important;
         color: #fff!important;
         text-transform: none;
         font-size: 14px;
@@ -60653,7 +60653,7 @@ app-leisure-time-interface {
     .print-matrix .matrix>tfoot>tr>td {
         background: #eee!important;
         cursor: pointer;
-        color: #a35176!important;
+        color: #fff!important;
         font-weight: 600
     }
 
@@ -60830,7 +60830,7 @@ app-leisure-time-interface {
 }
 
 .chat .-unread {
-    background: #a35176!important
+    background: #fff!important
 }
 
 .chat .-online {
@@ -60886,7 +60886,7 @@ app-leisure-time-interface {
     width: 35px;
     height: 35px;
     border-radius: 40px;
-    background: #a35176;
+    background: #fff;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,.2);
     position: relative;
     color: #fff;
@@ -60899,7 +60899,7 @@ app-leisure-time-interface {
 }
 
 .chat-bubble.-unread {
-    background: #a35176!important
+    background: #fff!important
 }
 
 .chat-bubble.-online {
@@ -61015,7 +61015,7 @@ app-leisure-time-interface {
 }
 
 .chat-container .-chat-windows .-chat-window-header {
-    background: #a35176;
+    background: #fff;
     box-shadow: 0 5px 5px 0 rgba(0,0,0,.05);
     padding: 10px;
     font-size: .9em;
@@ -61242,7 +61242,7 @@ app-leisure-time-interface {
 .chat .-profile-image {
     border-radius: 30px;
     position: relative;
-    background-color: #a35176;
+    background-color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -61275,7 +61275,7 @@ app-leisure-time-interface {
 }
 
 .chat .-chat-list .-chat-header {
-    background: #a35176;
+    background: #fff;
     padding: 10px;
     font-size: .9em;
     display: flex;
@@ -61353,11 +61353,11 @@ app-leisure-time-interface {
 }
 
 .status-dot.-primary .-circle {
-    background: #a35176
+    background: #fff
 }
 
 .status-dot.-primary .-pulse {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .update-prompt {
@@ -61370,7 +61370,7 @@ app-leisure-time-interface {
     top: 15px;
     font-size: .8em;
     font-weight: 500;
-    color: #a35176;
+    color: #fff;
     background: #fff;
     box-shadow: 0 2.5px 10px 0 rgba(0,0,0,.1);
     cursor: pointer;
@@ -62064,7 +62064,7 @@ body {
 }
 
 .mat-accent .mat-option.mat-selected:not(.mat-option-disabled),.mat-primary .mat-option.mat-selected:not(.mat-option-disabled) {
-    color: #a35176
+    color: #fff
 }
 
 .mat-warn .mat-option.mat-selected:not(.mat-option-disabled) {
@@ -62092,7 +62092,7 @@ body {
 }
 
 .mat-accent .mat-pseudo-checkbox-checked,.mat-accent .mat-pseudo-checkbox-indeterminate,.mat-primary .mat-pseudo-checkbox-checked,.mat-primary .mat-pseudo-checkbox-indeterminate,.mat-pseudo-checkbox-checked,.mat-pseudo-checkbox-indeterminate {
-    background: #a35176
+    background: #fff
 }
 
 .mat-warn .mat-pseudo-checkbox-checked,.mat-warn .mat-pseudo-checkbox-indeterminate {
@@ -62236,7 +62236,7 @@ body {
 }
 
 .mat-badge-accent .mat-badge-content {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -62441,7 +62441,7 @@ body {
 }
 
 .mat-button.mat-accent,.mat-button.mat-primary,.mat-icon-button.mat-accent,.mat-icon-button.mat-primary,.mat-stroked-button.mat-accent,.mat-stroked-button.mat-primary {
-    color: #a35176
+    color: #fff
 }
 
 .mat-button.mat-warn,.mat-icon-button.mat-warn,.mat-stroked-button.mat-warn {
@@ -62453,7 +62453,7 @@ body {
 }
 
 .mat-button.mat-accent .mat-button-focus-overlay,.mat-button.mat-primary .mat-button-focus-overlay,.mat-icon-button.mat-accent .mat-button-focus-overlay,.mat-icon-button.mat-primary .mat-button-focus-overlay,.mat-stroked-button.mat-accent .mat-button-focus-overlay,.mat-stroked-button.mat-primary .mat-button-focus-overlay {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-button.mat-warn .mat-button-focus-overlay,.mat-icon-button.mat-warn .mat-button-focus-overlay,.mat-stroked-button.mat-warn .mat-button-focus-overlay {
@@ -62491,7 +62491,7 @@ body {
 }
 
 .mat-fab.mat-accent,.mat-fab.mat-primary,.mat-flat-button.mat-accent,.mat-flat-button.mat-primary,.mat-mini-fab.mat-accent,.mat-mini-fab.mat-primary,.mat-raised-button.mat-accent,.mat-raised-button.mat-primary {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-fab.mat-warn,.mat-flat-button.mat-warn,.mat-mini-fab.mat-warn,.mat-raised-button.mat-warn {
@@ -62634,7 +62634,7 @@ body {
 }
 
 .mat-checkbox-checked.mat-accent .mat-checkbox-background,.mat-checkbox-checked.mat-primary .mat-checkbox-background,.mat-checkbox-indeterminate.mat-accent .mat-checkbox-background,.mat-checkbox-indeterminate.mat-primary .mat-checkbox-background {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-checkbox-checked.mat-warn .mat-checkbox-background,.mat-checkbox-indeterminate.mat-warn .mat-checkbox-background {
@@ -62658,7 +62658,7 @@ body {
 }
 
 .mat-checkbox-checked:not(.mat-checkbox-disabled).mat-accent .mat-ripple-element,.mat-checkbox-checked:not(.mat-checkbox-disabled).mat-primary .mat-ripple-element,.mat-checkbox:active:not(.mat-checkbox-disabled).mat-accent .mat-ripple-element,.mat-checkbox:active:not(.mat-checkbox-disabled).mat-primary .mat-ripple-element {
-    background: #a35176
+    background: #fff
 }
 
 .mat-checkbox-checked:not(.mat-checkbox-disabled).mat-warn .mat-ripple-element,.mat-checkbox:active:not(.mat-checkbox-disabled).mat-warn .mat-ripple-element {
@@ -62692,7 +62692,7 @@ body {
 }
 
 .mat-chip.mat-standard-chip.mat-chip-selected.mat-primary {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -62720,7 +62720,7 @@ body {
 }
 
 .mat-chip.mat-standard-chip.mat-chip-selected.mat-accent {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -62814,7 +62814,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-datepicker-content.mat-accent .mat-calendar-body-selected {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -62844,7 +62844,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-datepicker-toggle-active,.mat-datepicker-toggle-active.mat-accent {
-    color: #a35176
+    color: #fff
 }
 
 .mat-datepicker-toggle-active.mat-warn {
@@ -62917,7 +62917,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-focused .mat-form-field-required-marker {
-    color: #a35176
+    color: #fff
 }
 
 .mat-form-field-ripple {
@@ -62925,7 +62925,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-form-field.mat-focused .mat-form-field-ripple,.mat-form-field.mat-focused .mat-form-field-ripple.mat-accent {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-form-field.mat-focused .mat-form-field-ripple.mat-warn {
@@ -62933,7 +62933,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid).mat-accent .mat-form-field-infix:after,.mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid) .mat-form-field-infix:after {
-    color: #a35176
+    color: #fff
 }
 
 .mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid).mat-warn .mat-form-field-infix:after,.mat-form-field.mat-form-field-invalid .mat-form-field-label,.mat-form-field.mat-form-field-invalid .mat-form-field-label.mat-accent,.mat-form-field.mat-form-field-invalid .mat-form-field-label .mat-form-field-required-marker {
@@ -63001,7 +63001,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-form-field-appearance-outline.mat-focused.mat-accent .mat-form-field-outline-thick,.mat-form-field-appearance-outline.mat-focused .mat-form-field-outline-thick {
-    color: #a35176
+    color: #fff
 }
 
 .mat-form-field-appearance-outline.mat-focused.mat-warn .mat-form-field-outline-thick,.mat-form-field-appearance-outline.mat-form-field-invalid.mat-form-field-invalid .mat-form-field-outline-thick {
@@ -63017,7 +63017,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-icon.mat-accent,.mat-icon.mat-primary {
-    color: #a35176
+    color: #fff
 }
 
 .mat-icon.mat-warn {
@@ -63053,7 +63053,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-accent .mat-input-element {
-    caret-color: #a35176
+    caret-color: #fff
 }
 
 .mat-form-field-invalid .mat-input-element,.mat-warn .mat-input-element {
@@ -63139,7 +63139,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-progress-bar-fill:after {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-progress-bar.mat-accent .mat-progress-bar-background {
@@ -63151,7 +63151,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-progress-bar.mat-accent .mat-progress-bar-fill:after {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-progress-bar.mat-warn .mat-progress-bar-background {
@@ -63167,7 +63167,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-progress-spinner.mat-accent circle,.mat-progress-spinner circle,.mat-spinner.mat-accent circle,.mat-spinner circle {
-    stroke: #a35176
+    stroke: #fff
 }
 
 .mat-progress-spinner.mat-warn circle,.mat-spinner.mat-warn circle {
@@ -63179,19 +63179,19 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-radio-button.mat-primary.mat-radio-checked .mat-radio-outer-circle {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .mat-radio-button.mat-primary.mat-radio-checked .mat-radio-persistent-ripple,.mat-radio-button.mat-primary .mat-radio-inner-circle,.mat-radio-button.mat-primary .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple),.mat-radio-button.mat-primary:active .mat-radio-persistent-ripple {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-persistent-ripple,.mat-radio-button.mat-accent .mat-radio-inner-circle,.mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple),.mat-radio-button.mat-accent:active .mat-radio-persistent-ripple {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-radio-button.mat-warn.mat-radio-checked .mat-radio-outer-circle {
@@ -63247,7 +63247,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-form-field.mat-focused.mat-accent .mat-select-arrow,.mat-form-field.mat-focused.mat-primary .mat-select-arrow {
-    color: #a35176
+    color: #fff
 }
 
 .mat-form-field.mat-focused.mat-warn .mat-select-arrow,.mat-form-field .mat-select.mat-select-invalid .mat-select-arrow {
@@ -63294,7 +63294,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-slide-toggle.mat-checked .mat-slide-toggle-thumb {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-slide-toggle.mat-checked .mat-slide-toggle-bar {
@@ -63302,7 +63302,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-slide-toggle.mat-checked .mat-ripple-element,.mat-slide-toggle.mat-primary.mat-checked .mat-slide-toggle-thumb {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-slide-toggle.mat-primary.mat-checked .mat-slide-toggle-bar {
@@ -63310,7 +63310,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-slide-toggle.mat-primary.mat-checked .mat-ripple-element {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-slide-toggle.mat-warn.mat-checked .mat-slide-toggle-thumb {
@@ -63343,7 +63343,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-primary .mat-slider-thumb,.mat-primary .mat-slider-thumb-label,.mat-primary .mat-slider-track-fill {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-primary .mat-slider-thumb-label-text {
@@ -63351,7 +63351,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-accent .mat-slider-thumb,.mat-accent .mat-slider-thumb-label,.mat-accent .mat-slider-track-fill {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-accent .mat-slider-thumb-label-text {
@@ -63436,7 +63436,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-step-header .mat-step-icon-selected,.mat-step-header .mat-step-icon-state-done,.mat-step-header .mat-step-icon-state-edit {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -63516,7 +63516,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-tab-group.mat-accent .mat-ink-bar,.mat-tab-nav-bar.mat-accent .mat-ink-bar {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-tab-group.mat-accent.mat-background-accent .mat-ink-bar,.mat-tab-nav-bar.mat-accent.mat-background-accent .mat-ink-bar {
@@ -63540,7 +63540,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-tab-group.mat-background-primary .mat-tab-header,.mat-tab-group.mat-background-primary .mat-tab-header-pagination,.mat-tab-group.mat-background-primary .mat-tab-links,.mat-tab-nav-bar.mat-background-primary .mat-tab-header,.mat-tab-nav-bar.mat-background-primary .mat-tab-header-pagination,.mat-tab-nav-bar.mat-background-primary .mat-tab-links {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-tab-group.mat-background-primary .mat-tab-label,.mat-tab-group.mat-background-primary .mat-tab-link,.mat-tab-nav-bar.mat-background-primary .mat-tab-label,.mat-tab-nav-bar.mat-background-primary .mat-tab-link {
@@ -63568,7 +63568,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-tab-group.mat-background-accent .mat-tab-header,.mat-tab-group.mat-background-accent .mat-tab-header-pagination,.mat-tab-group.mat-background-accent .mat-tab-links,.mat-tab-nav-bar.mat-background-accent .mat-tab-header,.mat-tab-nav-bar.mat-background-accent .mat-tab-header-pagination,.mat-tab-nav-bar.mat-background-accent .mat-tab-links {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .mat-tab-group.mat-background-accent .mat-tab-label,.mat-tab-group.mat-background-accent .mat-tab-link,.mat-tab-nav-bar.mat-background-accent .mat-tab-label,.mat-tab-nav-bar.mat-background-accent .mat-tab-link {
@@ -63625,7 +63625,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-toolbar.mat-accent,.mat-toolbar.mat-primary {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -63661,7 +63661,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .mat-simple-snackbar-action {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-ripple-element {
@@ -63686,7 +63686,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-accent .mat-option.mat-selected:not(.mat-option-disabled),.theme-alternate .mat-primary .mat-option.mat-selected:not(.mat-option-disabled) {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-warn .mat-option.mat-selected:not(.mat-option-disabled) {
@@ -63714,7 +63714,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-accent .mat-pseudo-checkbox-checked,.theme-alternate .mat-accent .mat-pseudo-checkbox-indeterminate,.theme-alternate .mat-primary .mat-pseudo-checkbox-checked,.theme-alternate .mat-primary .mat-pseudo-checkbox-indeterminate,.theme-alternate .mat-pseudo-checkbox-checked,.theme-alternate .mat-pseudo-checkbox-indeterminate {
-    background: #a35176
+    background: #fff
 }
 
 .theme-alternate .mat-warn .mat-pseudo-checkbox-checked,.theme-alternate .mat-warn .mat-pseudo-checkbox-indeterminate {
@@ -63853,7 +63853,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 
 .theme-alternate .mat-badge-content {
     color: #fff;
-    background: #a35176
+    background: #fff
 }
 
 .cdk-high-contrast-active .theme-alternate .mat-badge-content {
@@ -63862,7 +63862,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-badge-accent .mat-badge-content {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -64067,7 +64067,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-button.mat-accent,.theme-alternate .mat-button.mat-primary,.theme-alternate .mat-icon-button.mat-accent,.theme-alternate .mat-icon-button.mat-primary,.theme-alternate .mat-stroked-button.mat-accent,.theme-alternate .mat-stroked-button.mat-primary {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-button.mat-warn,.theme-alternate .mat-icon-button.mat-warn,.theme-alternate .mat-stroked-button.mat-warn {
@@ -64079,7 +64079,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-button.mat-accent .mat-button-focus-overlay,.theme-alternate .mat-button.mat-primary .mat-button-focus-overlay,.theme-alternate .mat-icon-button.mat-accent .mat-button-focus-overlay,.theme-alternate .mat-icon-button.mat-primary .mat-button-focus-overlay,.theme-alternate .mat-stroked-button.mat-accent .mat-button-focus-overlay,.theme-alternate .mat-stroked-button.mat-primary .mat-button-focus-overlay {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-button.mat-warn .mat-button-focus-overlay,.theme-alternate .mat-icon-button.mat-warn .mat-button-focus-overlay,.theme-alternate .mat-stroked-button.mat-warn .mat-button-focus-overlay {
@@ -64117,7 +64117,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-fab.mat-accent,.theme-alternate .mat-fab.mat-primary,.theme-alternate .mat-flat-button.mat-accent,.theme-alternate .mat-flat-button.mat-primary,.theme-alternate .mat-mini-fab.mat-accent,.theme-alternate .mat-mini-fab.mat-primary,.theme-alternate .mat-raised-button.mat-accent,.theme-alternate .mat-raised-button.mat-primary {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-fab.mat-warn,.theme-alternate .mat-flat-button.mat-warn,.theme-alternate .mat-mini-fab.mat-warn,.theme-alternate .mat-raised-button.mat-warn {
@@ -64260,7 +64260,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-checkbox-checked.mat-accent .mat-checkbox-background,.theme-alternate .mat-checkbox-checked.mat-primary .mat-checkbox-background,.theme-alternate .mat-checkbox-indeterminate.mat-accent .mat-checkbox-background,.theme-alternate .mat-checkbox-indeterminate.mat-primary .mat-checkbox-background {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-checkbox-checked.mat-warn .mat-checkbox-background,.theme-alternate .mat-checkbox-indeterminate.mat-warn .mat-checkbox-background {
@@ -64284,7 +64284,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-checkbox-checked:not(.mat-checkbox-disabled).mat-accent .mat-ripple-element,.theme-alternate .mat-checkbox-checked:not(.mat-checkbox-disabled).mat-primary .mat-ripple-element,.theme-alternate .mat-checkbox:active:not(.mat-checkbox-disabled).mat-accent .mat-ripple-element,.theme-alternate .mat-checkbox:active:not(.mat-checkbox-disabled).mat-primary .mat-ripple-element {
-    background: #a35176
+    background: #fff
 }
 
 .theme-alternate .mat-checkbox-checked:not(.mat-checkbox-disabled).mat-warn .mat-ripple-element,.theme-alternate .mat-checkbox:active:not(.mat-checkbox-disabled).mat-warn .mat-ripple-element {
@@ -64318,7 +64318,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-chip.mat-standard-chip.mat-chip-selected.mat-primary {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -64346,7 +64346,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-chip.mat-standard-chip.mat-chip-selected.mat-accent {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -64421,7 +64421,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-calendar-body-selected {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -64440,7 +64440,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-datepicker-content.mat-accent .mat-calendar-body-selected {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -64470,7 +64470,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-datepicker-toggle-active,.theme-alternate .mat-datepicker-toggle-active.mat-accent {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-datepicker-toggle-active.mat-warn {
@@ -64535,7 +64535,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-form-field.mat-focused .mat-form-field-label,.theme-alternate .mat-form-field.mat-focused .mat-form-field-label.mat-accent {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-form-field.mat-focused .mat-form-field-label.mat-warn {
@@ -64543,7 +64543,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-focused .mat-form-field-required-marker {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-form-field-ripple {
@@ -64551,7 +64551,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-form-field.mat-focused .mat-form-field-ripple,.theme-alternate .mat-form-field.mat-focused .mat-form-field-ripple.mat-accent {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-form-field.mat-focused .mat-form-field-ripple.mat-warn {
@@ -64559,7 +64559,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid).mat-accent .mat-form-field-infix:after,.theme-alternate .mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid) .mat-form-field-infix:after {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-form-field-type-mat-native-select.mat-focused:not(.mat-form-field-invalid).mat-warn .mat-form-field-infix:after,.theme-alternate .mat-form-field.mat-form-field-invalid .mat-form-field-label,.theme-alternate .mat-form-field.mat-form-field-invalid .mat-form-field-label.mat-accent,.theme-alternate .mat-form-field.mat-form-field-invalid .mat-form-field-label .mat-form-field-required-marker {
@@ -64627,7 +64627,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-form-field-appearance-outline.mat-focused.mat-accent .mat-form-field-outline-thick,.theme-alternate .mat-form-field-appearance-outline.mat-focused .mat-form-field-outline-thick {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-form-field-appearance-outline.mat-focused.mat-warn .mat-form-field-outline-thick,.theme-alternate .mat-form-field-appearance-outline.mat-form-field-invalid.mat-form-field-invalid .mat-form-field-outline-thick {
@@ -64643,7 +64643,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-icon.mat-accent,.theme-alternate .mat-icon.mat-primary {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-icon.mat-warn {
@@ -64659,7 +64659,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-input-element {
-    caret-color: #a35176
+    caret-color: #fff
 }
 
 .theme-alternate .mat-input-element::placeholder {
@@ -64687,7 +64687,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-accent .mat-input-element {
-    caret-color: #a35176
+    caret-color: #fff
 }
 
 .theme-alternate .mat-form-field-invalid .mat-input-element,.theme-alternate .mat-warn .mat-input-element {
@@ -64773,7 +64773,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-progress-bar-fill:after {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-progress-bar.mat-accent .mat-progress-bar-background {
@@ -64785,7 +64785,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-progress-bar.mat-accent .mat-progress-bar-fill:after {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-progress-bar.mat-warn .mat-progress-bar-background {
@@ -64801,7 +64801,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-progress-spinner.mat-accent circle,.theme-alternate .mat-progress-spinner circle,.theme-alternate .mat-spinner.mat-accent circle,.theme-alternate .mat-spinner circle {
-    stroke: #a35176
+    stroke: #fff
 }
 
 .theme-alternate .mat-progress-spinner.mat-warn circle,.theme-alternate .mat-spinner.mat-warn circle {
@@ -64813,19 +64813,19 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-radio-button.mat-primary.mat-radio-checked .mat-radio-outer-circle {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .theme-alternate .mat-radio-button.mat-primary.mat-radio-checked .mat-radio-persistent-ripple,.theme-alternate .mat-radio-button.mat-primary .mat-radio-inner-circle,.theme-alternate .mat-radio-button.mat-primary .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple),.theme-alternate .mat-radio-button.mat-primary:active .mat-radio-persistent-ripple {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle {
-    border-color: #a35176
+    border-color: #fff
 }
 
 .theme-alternate .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-persistent-ripple,.theme-alternate .mat-radio-button.mat-accent .mat-radio-inner-circle,.theme-alternate .mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple),.theme-alternate .mat-radio-button.mat-accent:active .mat-radio-persistent-ripple {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-radio-button.mat-warn.mat-radio-checked .mat-radio-outer-circle {
@@ -64877,7 +64877,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-form-field.mat-focused.mat-accent .mat-select-arrow,.theme-alternate .mat-form-field.mat-focused.mat-primary .mat-select-arrow {
-    color: #a35176
+    color: #fff
 }
 
 .theme-alternate .mat-form-field.mat-focused.mat-warn .mat-select-arrow,.theme-alternate .mat-form-field .mat-select.mat-select-invalid .mat-select-arrow {
@@ -64925,7 +64925,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-slide-toggle.mat-checked .mat-slide-toggle-thumb {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-slide-toggle.mat-checked .mat-slide-toggle-bar {
@@ -64933,7 +64933,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-slide-toggle.mat-checked .mat-ripple-element,.theme-alternate .mat-slide-toggle.mat-primary.mat-checked .mat-slide-toggle-thumb {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-slide-toggle.mat-primary.mat-checked .mat-slide-toggle-bar {
@@ -64941,7 +64941,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-slide-toggle.mat-primary.mat-checked .mat-ripple-element {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-slide-toggle.mat-warn.mat-checked .mat-slide-toggle-thumb {
@@ -64974,7 +64974,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-primary .mat-slider-thumb,.theme-alternate .mat-primary .mat-slider-thumb-label,.theme-alternate .mat-primary .mat-slider-track-fill {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-primary .mat-slider-thumb-label-text {
@@ -64982,7 +64982,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-accent .mat-slider-thumb,.theme-alternate .mat-accent .mat-slider-thumb-label,.theme-alternate .mat-accent .mat-slider-track-fill {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-accent .mat-slider-thumb-label-text {
@@ -65059,7 +65059,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-step-header .mat-step-icon-selected,.theme-alternate .mat-step-header .mat-step-icon-state-done,.theme-alternate .mat-step-header .mat-step-icon-state-edit {
-    background-color: #a35176;
+    background-color: #fff;
     color: #fff
 }
 
@@ -65127,7 +65127,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-tab-group.mat-primary .mat-ink-bar,.theme-alternate .mat-tab-nav-bar.mat-primary .mat-ink-bar {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-tab-group.mat-primary.mat-background-primary .mat-ink-bar,.theme-alternate .mat-tab-nav-bar.mat-primary.mat-background-primary .mat-ink-bar {
@@ -65139,7 +65139,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-tab-group.mat-accent .mat-ink-bar,.theme-alternate .mat-tab-nav-bar.mat-accent .mat-ink-bar {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-tab-group.mat-accent.mat-background-accent .mat-ink-bar,.theme-alternate .mat-tab-nav-bar.mat-accent.mat-background-accent .mat-ink-bar {
@@ -65163,7 +65163,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-tab-group.mat-background-primary .mat-tab-header,.theme-alternate .mat-tab-group.mat-background-primary .mat-tab-header-pagination,.theme-alternate .mat-tab-group.mat-background-primary .mat-tab-links,.theme-alternate .mat-tab-nav-bar.mat-background-primary .mat-tab-header,.theme-alternate .mat-tab-nav-bar.mat-background-primary .mat-tab-header-pagination,.theme-alternate .mat-tab-nav-bar.mat-background-primary .mat-tab-links {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-tab-group.mat-background-primary .mat-tab-label,.theme-alternate .mat-tab-group.mat-background-primary .mat-tab-link,.theme-alternate .mat-tab-nav-bar.mat-background-primary .mat-tab-label,.theme-alternate .mat-tab-nav-bar.mat-background-primary .mat-tab-link {
@@ -65191,7 +65191,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-tab-group.mat-background-accent .mat-tab-header,.theme-alternate .mat-tab-group.mat-background-accent .mat-tab-header-pagination,.theme-alternate .mat-tab-group.mat-background-accent .mat-tab-links,.theme-alternate .mat-tab-nav-bar.mat-background-accent .mat-tab-header,.theme-alternate .mat-tab-nav-bar.mat-background-accent .mat-tab-header-pagination,.theme-alternate .mat-tab-nav-bar.mat-background-accent .mat-tab-links {
-    background-color: #a35176
+    background-color: #fff
 }
 
 .theme-alternate .mat-tab-group.mat-background-accent .mat-tab-label,.theme-alternate .mat-tab-group.mat-background-accent .mat-tab-link,.theme-alternate .mat-tab-nav-bar.mat-background-accent .mat-tab-label,.theme-alternate .mat-tab-nav-bar.mat-background-accent .mat-tab-link {
@@ -65248,7 +65248,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .theme-alternate .mat-toolbar.mat-accent,.theme-alternate .mat-toolbar.mat-primary {
-    background: #a35176;
+    background: #fff;
     color: #fff
 }
 
@@ -65361,7 +65361,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 
 .data-table table tbody tr td .-highlight {
     font-weight: 700;
-    color: #a35176
+    color: #fff
 }
 
 .data-table table tbody tr td .fake-badge {
@@ -65578,7 +65578,7 @@ mat-footer-row,mat-header-row,mat-row,td.mat-cell,td.mat-footer-cell,th.mat-head
 }
 
 .data-table .mat-row.-active {
-    background-color: #a35176!important
+    background-color: #fff!important
 }
 
 .data-table .mat-row.-active .mat-cell {
@@ -65783,7 +65783,7 @@ mat-form-field {
 }
 
 .mat-step-icon-selected,.mat-step-icon-state-edit {
-    background: #a35176!important
+    background: #fff!important
 }
 
 .mat-checkbox-layout {
@@ -66035,11 +66035,11 @@ mat-tab-group.narrow-tabs .mat-ink-bar {
 
 .snackbar-info {
     background: #ccc;
-    color: #a35176
+    color: #fff
 }
 
 .snackbar-info .mat-simple-snackbar-action {
-    color: #a35176!important
+    color: #fff!important
 }
 
 .snackbar-warning {
@@ -66380,7 +66380,7 @@ mat-tab-group.narrow-tabs .mat-ink-bar {
         transition: all .2s ease-in-out;
         top: 0;
         left: 0;
-        background-color: #a35176;
+        background-color: #fff;
         overflow: hidden;
         z-index: 999
     }
@@ -66409,7 +66409,7 @@ mat-tab-group.narrow-tabs .mat-ink-bar {
         padding: 0;
         margin-left: 0;
         height: auto;
-        background: #a35176;
+        background: #fff;
         overflow: hidden
     }
 
@@ -66482,7 +66482,7 @@ mat-tab-group.narrow-tabs .mat-ink-bar {
     }
 
     .qnav-mobile .switch-api {
-        background: #a35176;
+        background: #fff;
         width: 30px;
         height: 30px;
         display: flex;
